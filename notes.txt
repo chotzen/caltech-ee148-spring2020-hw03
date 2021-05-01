@@ -1,0 +1,3 @@
+Initial run without augmentation
+
+- Test set: Average loss: 0.880, Accuracy: 8753/8995
